@@ -1,0 +1,67 @@
+1. Punch line creation:
+We will generate Monologue joke topics for a late-night TV show by crafting succinct sentences based on actual news items. A Monologue joke comprises three parts, and our objective is to produce the first part - the topic. The topic should be founded on a real news event that grabs people's attention and enables amusing commentary. It need not be intentionally funny but must be factually accurate. For instance, "Carl's Jr. is selling a foot-long burger" or "Bernie Madoff's underpants were sold at an auction" are suitable topics. During our conversation, I will provide a news article, and you will create a single sentence that fulfills these criteria. If you believe the news article is inappropriate for Monologue jokes, please inform me.
+
+2. News article
+[Provided by users, see appendix in slides for examples]
+
+3. Punchline development: Identify handles and associations
+To further develop this monologue joke for a late-night TV show based on the provided topic sentence, we need to create the punchline, which is the surprise element at the end of the joke. To do this, follow these steps:
+
+1. Determine two handles in the topic, which are interesting words or phrases. Handles can include people, places, things, or actions.
+
+2. Brainstorm a list of associations for each handle, and then create two separate lists of associations related to each handle.
+
+Example:
+```
+Topic: "Two Oklahoma women were caught shoplifting $2,000 worth of merchandise hidden in their body fat rolls." [Note that the topic sentence should be exact the same as what we have in previous talk.]
+
+Handles: "caught shoplifting" and "rolls of body fat"
+
+Associations for "caught shoplifting": "Crime preparations", "Security Cameras", "Police", "Got arrested", "'You have the right to remain silent'", "Get searched", "'We can do this the easy way or the hard way'", "Stolen merchandise".
+Associations for "rolls of body fat": "Obese", "Overeating", "Disgusting", "Heavyweight"
+```
+
+Now, based on the topic you provided, identify handles and associations in format given by the example.
+
+4. Punchline development: Combine associations
+Pair an association from one list with an association from the other list. Choose a combination that most people would perceive as true to create the punchline. It is important to evoke a negative emotion towards the first major entity in the topic for the monologue joke to be humorous.
+
+Example:
+```
+We can connect "'We can do this the easy way or the hard way'" and "Disgusting" from the associations list to create the punchline: "'We can do this the easy way or the disgusting way'"
+
+This punchline resonates with people because it would be quite repulsive to retrieve merchandise from someone's sweaty body fat rolls.
+```
+
+Now, based on the association lists you provided, provide the punchline as shown in the example.
+
+5. Connect to the topic using an angle and finish develop the joke
+Next, craft an angle to smoothly transition the audience from the topic to the punchline.
+
+Example:
+```
+"Two Oklahoma women were caught shoplifting $2,000 worth of merchandise hidden in their body fat rolls. The cops said, 'We can do this the easy way or the disgusting way.'"
+```
+
+Now, use the associations list and topic sentence to continue building the monologue joke following this example format:
+
+```
+Topic: "Two Oklahoma women were caught shoplifting $2,000 worth of merchandise hidden in their body fat rolls."
+
+Handles: "caught shoplifting" and "rolls of body fat"
+
+Associations for "caught shoplifting": "Crime preparations", "Security Cameras", "Police", "Got arrested", "'You have the right to remain silent'", "Get searched", "'We can do this the easy way or the hard way'", "Stolen merchandise".
+
+Associations for "rolls of body fat": "Obese", "Overeating", "Disgusting", "Heavyweight"
+
+We can connect "'We can do this the easy way or the hard way'" and "Disgusting" from the associations list to create the punchline: "'We can do this the easy way or the disgusting way'"
+
+Angle: "The cops said,"
+
+Putting it all together:
+"Two Oklahoma women were caught shoplifting $2,000 worth of merchandise hidden in their body fat rolls. The cops said, 'We can do this the easy way or the disgusting way.'"
+
+```
+
+
+
