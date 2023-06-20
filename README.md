@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xsycivlny9e9oAd-AjhnvGQvtPmXFSrf?usp=sharing)
 
+![figure-pipe](https://github.com/Stry233/Joe-Toplyn-s-Monologue-Joke-generation-using-ChatGPT/assets/31975605/9a409c6d-a26e-467e-b39d-ffe6d2ece238)
+
 
 ## Toplyn's Theory for Writing Jokes
 
