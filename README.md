@@ -1,8 +1,11 @@
 # Joe Toplyn’s Monologue Joke generation using ChatGPT
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xsycivlny9e9oAd-AjhnvGQvtPmXFSrf?usp=sharing)
+[![Blog](https://img.shields.io/badge/Blog-Visit%20Now-green)](https://stry233.github.io/blog/2023/CraftingMonologueJokesChatGPT/)
 
-![figure-pipe](https://github.com/Stry233/Joe-Toplyn-s-Monologue-Joke-generation-using-ChatGPT/assets/31975605/9a409c6d-a26e-467e-b39d-ffe6d2ece238)
+<p align="center">
+  <img src="https://github.com/Stry233/Joe-Toplyn-s-Monologue-Joke-generation-using-ChatGPT/assets/31975605/9a409c6d-a26e-467e-b39d-ffe6d2ece238" width="80%" />
+</p>
 
 
 ## Toplyn's Theory for Writing Jokes
