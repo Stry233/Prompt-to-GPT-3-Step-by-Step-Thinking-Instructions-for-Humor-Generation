@@ -1,5 +1,8 @@
 # Joe Toplyn’s Monologue Joke generation using ChatGPT
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xsycivlny9e9oAd-AjhnvGQvtPmXFSrf?usp=sharing)
+
+
 ## Toplyn's Theory for Writing Jokes
 
 Toplyn is a renowned comedy writer who has worked on shows like "Late Night with David Letterman" and "The Tonight Show with Jay Leno." In his book "Comedy Writing for Late-Night TV: How to Write Monologue Jokes, Desk Pieces, Sketches, Parodies, Audience Pieces, Remotes, and Other Short-Form Comedy", he outlines his process for creating humorous content. According to Toplyn, there are four steps to crafting a joke:
