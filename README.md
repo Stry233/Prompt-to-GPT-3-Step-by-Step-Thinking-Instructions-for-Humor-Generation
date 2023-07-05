@@ -2,6 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tWVpsOULNF-0N2huAPLbIBEw4512EdtZ?usp=sharing)
 [![Blog](https://img.shields.io/badge/Blog-Visit%20Now-green)](https://stry233.github.io/blog/2023/CraftingMonologueJokesChatGPT/)
+[![Access the ArXiv Paper](https://img.shields.io/badge/Read%20on-ArXiv-blue.svg)](https://arxiv.org/abs/2306.13195)
 
 <p align="center">
   <img src="https://github.com/Stry233/Joe-Toplyn-s-Monologue-Joke-generation-using-ChatGPT/assets/31975605/9a409c6d-a26e-467e-b39d-ffe6d2ece238" width="80%" />
